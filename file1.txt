@@ -1,1 +1,3 @@
 hello
+now im adding 2nd line via vim
+and a third line
