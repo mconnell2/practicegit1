@@ -1,4 +1,4 @@
 yo 
 its file 3!
-
-I added some new text.
+ added some new text.
+this is Julie I added some text too!
