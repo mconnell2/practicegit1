@@ -1,3 +1,4 @@
 hello
-now im adding 2nd line via vim
+now im adding 2nd line via vim. Here too.
 and a third line
+adding a 4th line via git text editing.
